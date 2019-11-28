@@ -2,19 +2,19 @@
    "data":[
       {
          "title":"Security",
-         "content":"Apple Card doesn’t have any numbers on it. Not even a CVV. So that’s one less thing to worry about when you hand over your card at a restaurant or store. And if you ever lose it, you can freeze it and order a new one right in the Wallet app"
+         "content":"Infino uses advanced encryption technology to keep payment information secure. Infino Smart Card Vault is secure and protected by PCI DSS standards. A user can add a PIN or use your device biometrics for added security when viewing the card details or making a payment. Infino does not receive or store your device’s biometric information. We don’t automatically fill your CVV information into online stores. Since you are manually entering CVV, you can be sure that there won’t be any unauthorized transactions."
       },
       {
          "title":"Privacy",
-         "content":"Apple Card doesn’t have any numbers on it. Not even a CVV. So that’s one less thing to worry about when you hand over your card at a restaurant or store. And if you ever lose it, you can freeze it and order a new one right in the Wallet app"
+         "content":"Your credit or debit card information is not shared with buyers, sellers, or merchants, and is stored separately from your account data. Even Infino doesn’t have direct access to it."
       },
       {
          "title":"User Agreement",
-         "content":"Apple Card doesn’t have any numbers on it. Not even a CVV. So that’s one less thing to worry about when you hand over your card at a restaurant or store. And if you ever lose it, you can freeze it and order a new one right in the Wallet app"
+         "content":"Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text "
       },
       {
          "title":"Data Policy",
-         "content":"Apple Card doesn’t have any numbers on it. Not even a CVV. So that’s one less thing to worry about when you hand over your card at a restaurant or store. And if you ever lose it, you can freeze it and order a new one right in the Wallet app"
+         "content":"Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text Dummy text "
       }
    ]
 }
